@@ -1,0 +1,12 @@
+When Creating Package enter this in it: com.example.bankingsystem
+
+Project Structure must be like this:
+src/
+  com/example/bankingsystem/
+    Account.java
+    Customer.java
+    SavingsAccount.java
+    CurrentAccount.java
+    Bank.java
+    Main.java 
+
